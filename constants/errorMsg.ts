@@ -1,0 +1,1 @@
+export const errorMsg = "Something weng wrong, Please try again."
